@@ -1,11 +1,11 @@
 {
-  "BOTNAME": "SARDAR RDX",
-  "BOTNICK": "{ . } × SARDAR RDX",
-  "PREFIX": ".",
+  "BOTNAME": "ShOna BoT",
+  "BOTNICK": "{ BoT } BaBu ",
+  "PREFIX": "*",
   "ADMINBOT": [
-    "100009012838085",
-    "61582076572381",
-    "100065216344877"
+    "100092192215832",
+    "100009723549905",
+    "100078402466600"
   ],
   "REACT_DELETE_EMOJI": "😡",
   "PREFIX_ENABLED": true,
